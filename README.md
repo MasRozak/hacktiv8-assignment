@@ -69,7 +69,6 @@ social-media-api/
 ├── go.mod                 # Go module definition
 ├── docker-compose.yml     # Docker setup untuk PostgreSQL
 ├── env.example           # Environment variables template
-├── postman_collection.json # Postman collection untuk testing
 └── README.md             # Dokumentasi
 ```
 
